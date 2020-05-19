@@ -1,6 +1,6 @@
 # What i Understood about refactoring
 
-The homework project required us to refactor the worked completed for "horiseon".  I understood it as making the webpage code more semantic and efficient without making major changes to the overall look.
+The homework project required us to refactor the worked completed for "horiseon".  I understood it as making the webpage code more semantic and efficient without making major changes to the overall look and feel.
 
 # What I tried to achieve during the homework project
 
