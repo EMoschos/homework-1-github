@@ -17,6 +17,9 @@ body {
     background-position: center;
 }
 
+/* HEADER CSS
+Header sytling reduced the amount of coding and reverted back to tag as selectors instead of numerous id's.  Also renamed some selectors to achieve the same styling but make it more semantic */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,10 +56,14 @@ main {
     margin-left: 20px;
 }
 
+/* SECTION CSS
+Use the section selector to ensure all the content in each section did not get hidden or flowed onto other elements*/
 section {
     overflow: auto;
 }
 
+/* MAIN CSS
+Included the main section to make more semantic and this also help reduce the amount of coding for CSS*/
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,6 +95,8 @@ p {
     margin-left: 25px;
 }
 
+/* ASIDE CSS
+The Aside element assited in reducing the amount of coding for CSS stlying and made the page more semantic*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -114,6 +123,7 @@ aside img {
     max-width: 150px;
 }
 
+/*FOOTER CSS*/
 footer {
     padding: 30px;
     clear: both;
